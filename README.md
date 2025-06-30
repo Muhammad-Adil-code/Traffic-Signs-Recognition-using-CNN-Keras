@@ -2,7 +2,7 @@
 
 This project focuses on building a deep learning model to recognize and classify traffic signs from images. Leveraging a Convolutional Neural Network (CNN), the model is trained to identify 58 different classes of traffic signs, a critical task for developing autonomous driving systems and enhancing road safety.
 
-![Traffic Signs Grid](https://i.imgur.com/gK2gE47.png)
+
 
 ## Table of Contents
 - [Project Summary](#project-summary)
